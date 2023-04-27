@@ -16,7 +16,7 @@ git add : This command stages changed files, readying them to be wrapped into th
 
 git commit : This command commits staged files, wrapping them into a commit. A historical record of commits is what we refer to as a codebase's version or commit history.
 
-gi tlog : View the repository's commit history 
+git log : View the repository's commit history 
 
 
 
